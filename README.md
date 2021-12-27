@@ -30,6 +30,8 @@
 <br />
 <br />
 
+### Social Media:
+
 [twitter]: https://twitter.com/rarmnsyah787
 [instagram]: https://instagram.com/rarmnsyah
 [linkedin]: https://linkedin.com/in/risky-armansyah-158b93215
@@ -37,7 +39,13 @@
 
 <br>
 
+### Github Stats:
+
 ![rarmnsyah GitHub stats](https://github-readme-stats.vercel.app/api?username=rarmnsyah&show_icons=true&theme=dracula)<br>
+
+<br>
+### Top Language:
+
 [![rarmnsyah Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarmnsyah&theme=dracula)](https://github.com/aziemp66/github-readme-stats)
 
 
