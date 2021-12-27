@@ -34,3 +34,6 @@
 [instagram]: https://instagram.com/rarmnsyah
 [linkedin]: https://linkedin.com/in/risky-armansyah-158b93215
 [facebook]: https://www.facebook.com/riski.armansyah.1
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rarmnsyah)](https://github.com/anuraghazra/github-readme-stats)
+
