@@ -35,5 +35,7 @@
 [linkedin]: https://linkedin.com/in/risky-armansyah-158b93215
 [facebook]: https://www.facebook.com/riski.armansyah.1
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rarmnsyah&show_icons=true&theme=dracula)
+![rarmnsyah GitHub stats](https://github-readme-stats.vercel.app/api?username=rarmnsyah&show_icons=true&theme=dracula)
+[![rarmnsyah Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarmnsyah&theme=dracula)](https://github.com/aziemp66/github-readme-stats)
+
 
