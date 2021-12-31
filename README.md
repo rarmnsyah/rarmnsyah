@@ -39,13 +39,13 @@
    <td width="50%" valign="top">
     <h3 align="center"> GitHub Status<h3>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rarmnsyah&show_icons=true&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rarmnsyah&show_icons=true&theme=dracula&column=7&no-frame=true" />
     </p>
    </td>
    <td width="50%" valign="top">
     <h3 align="center"> Most used languages</h3>
      <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarmnsyah&theme=dracula)](https://github.com/aziemp66/github-readme-stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarmnsyah&theme=dracula&column=7&no-frame=true"/>
      </p>
   </td>
 </table>
