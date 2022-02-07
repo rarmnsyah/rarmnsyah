@@ -35,19 +35,3 @@
 [linkedin]: https://linkedin.com/in/risky-armansyah-158b93215
 [facebook]: https://www.facebook.com/riski.armansyah.1
 
-<table>
-   <td width="50%" valign="top">
-    <h3 align="center"> GitHub Status<h3>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rarmnsyah&show_icons=true&theme=dracula&column=7&no-frame=true" />
-    </p>
-   </td>
-   <td width="50%" valign="top">
-    <h3 align="center"> Most used languages</h3>
-     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarmnsyah&theme=dracula&column=7&no-frame=true"/>
-     </p>
-  </td>
-</table>
-<!-- 
-
