@@ -3,8 +3,8 @@
 ## I'm a Single, Student, and Developer!!
 
 - 👋 Hi, Broahahahahh 🙋
-- 👀 I’m interested in Software engineer, Data Scientist, and Backend Programmer! 
-- 🌱 I’m currently learning html, css, javascript, java, python
+- 👀 I’m interested in Software engineer, Data Scientist, and Backend Programming! 
+- 🌱 I’m currently learning html, css, javascript, java, python, laravel, mysql, node js
 - 📫 How to reach me, you can search me in instagram @rarmnysah
 
 ### Connect with me:
