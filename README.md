@@ -4,7 +4,7 @@
 
 - 👋 Hi, Broahahahahh 🙋
 - 👀 I’m interested in Machine Learning! Forza ML 
-- 🌱 I’m currently learning ml
+- 🌱 I’m currently learning ml and all of thing that would support my project
 - 📫 How to reach me, you can search me in instagram @rarmnysah or gmail rarmnsyah787@gmail.com
 
 ### Connect with me:
