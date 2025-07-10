@@ -1,6 +1,6 @@
 # Hi there, I'm Risky - aka [rarmnsyah][instagram] 👋
 
-## I'm a Single, Student, and Developer!!
+## I'm a Analyst, and Developer!!
 
 - 👋 Hi, Broahahahahh 🙋
 - 👀 I’m interested in Machine Learning! Forza ML 
